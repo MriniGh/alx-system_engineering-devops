@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell basics alx project
+First task 0 : pwd provide the path of file
