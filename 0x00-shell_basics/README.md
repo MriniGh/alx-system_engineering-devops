@@ -7,3 +7,4 @@ task 5: this project contain an executable file who Display current directory co
 task 6 : this project contain an executable file that that creates a directory named my first directory in the /tmp/ directory.
 task 7 : Move the file betty from /tmp/ to /tmp/my first directory.
 task 8 : delete betty
+task 9 : delete myfirst directory
