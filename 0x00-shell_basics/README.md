@@ -12,3 +12,4 @@ task 10 :changes the working directory to the previous one.
 task 11 :  lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 task 12 :type of the file 
 task 13 : Create a symbolic link to /bin/ls, named __ls__.
+tassk 14:  copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
